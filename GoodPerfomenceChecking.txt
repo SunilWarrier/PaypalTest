@@ -6,6 +6,8 @@
 -- http://sqlskills.com/blogs/glenn/
 -- Twitter: GlennAlanBerry
 
+test
+
 -- Listen to my Pluralsight courses
 -- http://pluralsight.com/training/Authors/Details/glenn-berry
 
